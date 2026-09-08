@@ -26,6 +26,11 @@ video {
   max-width: 100%;
 }
 
+h1 {
+  color: rgb(red, green, blue)
+}
+h1{}
+
 p {
   color: rgb(21, 139, 207);
 }
