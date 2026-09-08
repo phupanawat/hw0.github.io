@@ -1,1 +1,1 @@
-https://github.com/phupanawat/hw0.github.io.git
+https://phupanawat.github.io/hw0.github.io/
