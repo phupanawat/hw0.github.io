@@ -33,7 +33,7 @@ h1 {
   background-clip: text;
   -webkit-background-clip: text;
 
-  animation: rainbow 3s linear
+  animation: rainbow 3s linear infinite;
 }
 @keyframes rainbow {
   to {
